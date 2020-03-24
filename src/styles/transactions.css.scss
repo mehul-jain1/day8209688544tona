@@ -1,0 +1,11 @@
+#container {
+  margin: auto;
+  width: 60%;
+  padding-top: 2rem;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.slick-prev:before, .slick-next:before { 
+    color:red !important;
+}
